@@ -110,11 +110,11 @@ projects:
         tagline: "Rearchitecturing platform for Knowlarity Company"
 
       - title: ShareBox
-        link: "https://www.microsoft.com/en-us/p/share-box/9nblggh07vns?activetab=pivot:overviewtab"
+        link: "https://www.microsoft.com/en-us/p/share-box/9nblggh07vns"
         tagline: "Sharing media files over DMR/ DMC devices"
 
-        - title: AllShare
-        link: "https://www.samsung.com/us/2012-allshare-play/"
+      - title: AllShare
+        link: "https://www.samsung.com/us/2012-allshare-play"
         tagline: "Share/Play/Upload on cloud media on the go"
 
         
