@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yogesh Yadav
@@ -59,13 +59,12 @@ education:
 
 experiences:
     - role: Senior Software Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: September 2016 - Present
+      company: Paytm, Nodia & Bangalore
       details: |
         Wrote authentication and authorization service for seller side of Paytm. 
         Wrote subscription service for user side. Now working on digital gold 
         platform of Paytm for buying and selling gold on paytm platform
-
           - Authentication Service
           - Authorization Service
           - Subscription Service
@@ -84,8 +83,8 @@ experiences:
       details: |
         Worked on developing windows phone applications. Majorly worked in C# .NET
         Applications that i have worked on
-          - ShareBox https://www.microsoft.com/en-us/p/share-box/9nblggh07vns?activetab=pivot:overviewtab
-          - AllShare https://www.samsung.com/us/2012-allshare-play/
+          - ShareBox
+          - AllShare
 
 projects:
     title: Projects
